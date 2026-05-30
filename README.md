@@ -12,4 +12,3 @@ Hi there, I'm Aakash Yadav! <br>I am a CSE student specializing in AIML at VIT B
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SOUL665&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
