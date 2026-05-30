@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there, I'm Aakash Yadav! <br>I am a CSE student specializing in AIML at VIT Bhopal University.  <br>I am passionate about building intelligent solutions, exploring data, and constantly learning new technologies.<br>I am a fast learner with strong adaptability and time management skills.<br>
+Hi there, I'm Aakash Yadav! <br>I am passionate about building intelligent solutions, exploring data, and constantly learning new technologies.<br>I am a fast learner with strong adaptability and time management skills.<br>
 
 
 # 💻 Tech Stack:
