@@ -7,7 +7,7 @@ Hi there, I'm Aakash Yadav! <br>I am passionate about building intelligent solut
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=SOUL665&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=SOUL665&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Username&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=SOUL665&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact&hide=jupyter%20notebook)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SOUL665&theme=radical&no-frame=false&no-bg=true&margin-w=4)
